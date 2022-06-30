@@ -1,14 +1,19 @@
+## How to **Git!**
+
 Hello World!
 
-_Hello World!
-__Hello World!_
+*Hello World!*
+
+**Hello World!**
+
 # Hello World!
+
 ## Hello World!
 
 * hello 
 * world
 
-[Link](https://piazza.com/class_profile/get_resource/l4hn5gwv6b163w/l4zxsililgt53u)
+[Lab2](https://piazza.com/class_profile/get_resource/l4hn5gwv6b163w/l4zxsililgt53u)
 
 > Hello World
 
